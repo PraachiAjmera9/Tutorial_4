@@ -3,3 +3,4 @@
 # conflict created
 
 creating conflict 2
+3rd conflict
